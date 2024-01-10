@@ -24,3 +24,9 @@
 
              model - employee              collection - employees
     schema -{id:string,name:string....}
+
+        11 Create a logics.js file for Implementing Backend logic. (Inside the service folder)
+
+        12 Route setting
+
+        localhost:8000/ge-all-employees -> all employees details that present in the mongodb - (index.js)
